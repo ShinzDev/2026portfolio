@@ -11,8 +11,8 @@ const Navbar = () => {
   ];
 
   return (
-    <nav className="w-full flex justify-center mt-6">
-      <div className="backdrop-blur-md bg-blue-400  border border-white/20 shadow-lg 
+    <nav className="w-full flex justify-center mb-20 mt-2 ">
+      <div className="backdrop-blur-md bg-blue-400 fixed    border border-white/20 shadow-lg 
         rounded-lg px-8 py-3 flex items-center justify-between gap-10 
         max-w-200 w-full">
 
